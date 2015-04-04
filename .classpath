@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src/main/java"/>
+	<classpathentry kind="lib" path="target/crawler-indexed_1.0.4-1.2.0.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="/Projects/UCSC/NoSQL/Projects/jars/mongo-2.10.1.jar"/>
+	<classpathentry kind="lib" path="/mongo-hadoop/mongo-hadoop/core/target/mongo-hadoop-core_1.0.4-1.1.0.jar"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>

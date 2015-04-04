@@ -1,0 +1,21 @@
+[0m[[0minfo[0m] [0mPackaging /home/ubuntu/mongo-hadoop/examples/crawler_indexed/target/crawler-indexed_1.0.4-1.2.0.jar ...[0m
+[0m[[0mdebug[0m] [0mInput file mappings:[0m
+[0m[[0mdebug[0m] [0m	crawler/SampleFilter.class[0m
+[0m[[0mdebug[0m] [0m	  /home/ubuntu/mongo-hadoop/examples/crawler_indexed/target/classes/crawler/SampleFilter.class[0m
+[0m[[0mdebug[0m] [0m	mongo-defaults.xml[0m
+[0m[[0mdebug[0m] [0m	  /home/ubuntu/mongo-hadoop/examples/crawler_indexed/target/classes/mongo-defaults.xml[0m
+[0m[[0mdebug[0m] [0m	hadoop-local.xml[0m
+[0m[[0mdebug[0m] [0m	  /home/ubuntu/mongo-hadoop/examples/crawler_indexed/target/classes/hadoop-local.xml[0m
+[0m[[0mdebug[0m] [0m	mongo-treasury_yield.xml.bak[0m
+[0m[[0mdebug[0m] [0m	  /home/ubuntu/mongo-hadoop/examples/crawler_indexed/target/classes/mongo-treasury_yield.xml.bak[0m
+[0m[[0mdebug[0m] [0m	mongo-crawler.xml[0m
+[0m[[0mdebug[0m] [0m	  /home/ubuntu/mongo-hadoop/examples/crawler_indexed/target/classes/mongo-crawler.xml[0m
+[0m[[0mdebug[0m] [0m	crawler/CrawlerCorpusMapper.class[0m
+[0m[[0mdebug[0m] [0m	  /home/ubuntu/mongo-hadoop/examples/crawler_indexed/target/classes/crawler/CrawlerCorpusMapper.class[0m
+[0m[[0mdebug[0m] [0m	crawler/CrawlerCorpusReducer.class[0m
+[0m[[0mdebug[0m] [0m	  /home/ubuntu/mongo-hadoop/examples/crawler_indexed/target/classes/crawler/CrawlerCorpusReducer.class[0m
+[0m[[0mdebug[0m] [0m	crawler[0m
+[0m[[0mdebug[0m] [0m	  /home/ubuntu/mongo-hadoop/examples/crawler_indexed/target/classes/crawler[0m
+[0m[[0mdebug[0m] [0m	crawler/CrawlerCorpus.class[0m
+[0m[[0mdebug[0m] [0m	  /home/ubuntu/mongo-hadoop/examples/crawler_indexed/target/classes/crawler/CrawlerCorpus.class[0m
+[0m[[0minfo[0m] [0mDone packaging.[0m

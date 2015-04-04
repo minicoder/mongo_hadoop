@@ -1,0 +1,5 @@
+[0m[[0mdebug[0m] [0mCopy resource mappings: [0m
+[0m[[0mdebug[0m] [0m	(/home/ubuntu/mongo-hadoop/examples/crawler_indexed/src/main/resources/mongo-defaults.xml,/home/ubuntu/mongo-hadoop/examples/crawler_indexed/target/classes/mongo-defaults.xml)[0m
+[0m[[0mdebug[0m] [0m	(/home/ubuntu/mongo-hadoop/examples/crawler_indexed/src/main/resources/mongo-crawler.xml,/home/ubuntu/mongo-hadoop/examples/crawler_indexed/target/classes/mongo-crawler.xml)[0m
+[0m[[0mdebug[0m] [0m	(/home/ubuntu/mongo-hadoop/examples/crawler_indexed/src/main/resources/mongo-treasury_yield.xml.bak,/home/ubuntu/mongo-hadoop/examples/crawler_indexed/target/classes/mongo-treasury_yield.xml.bak)[0m
+[0m[[0mdebug[0m] [0m	(/home/ubuntu/mongo-hadoop/examples/crawler_indexed/src/main/resources/hadoop-local.xml,/home/ubuntu/mongo-hadoop/examples/crawler_indexed/target/classes/hadoop-local.xml)[0m
